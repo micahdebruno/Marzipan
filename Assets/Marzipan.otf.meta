@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7c4563a963002dc408217ec0f62de6b9
+timeCreated: 1512580504
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Marzipan
+  fontNames:
+  - Marzipan
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
